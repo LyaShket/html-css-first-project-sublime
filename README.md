@@ -1,2 +1,2 @@
 My first html-css project
-https://lyashket.github.io/Sublime/
+https://dem1luv.github.io/Sublime/
